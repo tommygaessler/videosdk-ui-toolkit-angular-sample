@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@zoom/videosdk-ui-toolkit/dist/videosdk-ui-toolkit.css",
               "src/styles.css"
             ],
             "scripts": []
